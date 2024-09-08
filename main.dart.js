@@ -71971,7 +71971,7 @@ o=t.a
 n=B.dd
 m=B.Y
 s=3
-return A.R(A.aDr(A.fL("https://pixabay.com/api/?key=45866912-9917e6b980d5a9235462cf1af&q="+(b==null?"":b)+"&image_type=photo&page="+a+"&per_page=20")),$async$mM)
+return A.R(A.aDr(A.fL("https://pixabay.com/api/?key=45866912-9917e6b980d5a9235462cf1af&q="+(b==null?"":b)+"&image_type=photo&page="+a+"&per_page=50")),$async$mM)
 case 3:q=p.awr(o.a(n.O2(m.hd(d.w),null)))
 s=1
 break
